@@ -1,0 +1,14 @@
+C:\Users\MARTI\source\repos\Sales_Dashboard\SalesBLL\bin\Debug\netstandard2.0\SalesBLL.deps.json
+C:\Users\MARTI\source\repos\Sales_Dashboard\SalesBLL\bin\Debug\netstandard2.0\SalesBLL.dll
+C:\Users\MARTI\source\repos\Sales_Dashboard\SalesBLL\bin\Debug\netstandard2.0\SalesBLL.pdb
+C:\Users\MARTI\source\repos\Sales_Dashboard\SalesBLL\bin\Debug\netstandard2.0\SalesDAL.dll
+C:\Users\MARTI\source\repos\Sales_Dashboard\SalesBLL\bin\Debug\netstandard2.0\Utilidades.dll
+C:\Users\MARTI\source\repos\Sales_Dashboard\SalesBLL\bin\Debug\netstandard2.0\SalesDAL.pdb
+C:\Users\MARTI\source\repos\Sales_Dashboard\SalesBLL\bin\Debug\netstandard2.0\Utilidades.pdb
+C:\Users\MARTI\source\repos\Sales_Dashboard\SalesBLL\obj\Debug\netstandard2.0\SalesBLL.csprojAssemblyReference.cache
+C:\Users\MARTI\source\repos\Sales_Dashboard\SalesBLL\obj\Debug\netstandard2.0\SalesBLL.AssemblyInfoInputs.cache
+C:\Users\MARTI\source\repos\Sales_Dashboard\SalesBLL\obj\Debug\netstandard2.0\SalesBLL.AssemblyInfo.cs
+C:\Users\MARTI\source\repos\Sales_Dashboard\SalesBLL\obj\Debug\netstandard2.0\SalesBLL.csproj.CoreCompileInputs.cache
+C:\Users\MARTI\source\repos\Sales_Dashboard\SalesBLL\obj\Debug\netstandard2.0\SalesBLL.csproj.CopyComplete
+C:\Users\MARTI\source\repos\Sales_Dashboard\SalesBLL\obj\Debug\netstandard2.0\SalesBLL.dll
+C:\Users\MARTI\source\repos\Sales_Dashboard\SalesBLL\obj\Debug\netstandard2.0\SalesBLL.pdb

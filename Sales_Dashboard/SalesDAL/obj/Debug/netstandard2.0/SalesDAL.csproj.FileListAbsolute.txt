@@ -1,0 +1,12 @@
+C:\Users\MARTI\source\repos\Sales_Dashboard\SalesDAL\bin\Debug\netstandard2.0\SalesDAL.deps.json
+C:\Users\MARTI\source\repos\Sales_Dashboard\SalesDAL\bin\Debug\netstandard2.0\SalesDAL.dll
+C:\Users\MARTI\source\repos\Sales_Dashboard\SalesDAL\bin\Debug\netstandard2.0\SalesDAL.pdb
+C:\Users\MARTI\source\repos\Sales_Dashboard\SalesDAL\bin\Debug\netstandard2.0\Utilidades.dll
+C:\Users\MARTI\source\repos\Sales_Dashboard\SalesDAL\bin\Debug\netstandard2.0\Utilidades.pdb
+C:\Users\MARTI\source\repos\Sales_Dashboard\SalesDAL\obj\Debug\netstandard2.0\SalesDAL.csprojAssemblyReference.cache
+C:\Users\MARTI\source\repos\Sales_Dashboard\SalesDAL\obj\Debug\netstandard2.0\SalesDAL.AssemblyInfoInputs.cache
+C:\Users\MARTI\source\repos\Sales_Dashboard\SalesDAL\obj\Debug\netstandard2.0\SalesDAL.AssemblyInfo.cs
+C:\Users\MARTI\source\repos\Sales_Dashboard\SalesDAL\obj\Debug\netstandard2.0\SalesDAL.csproj.CoreCompileInputs.cache
+C:\Users\MARTI\source\repos\Sales_Dashboard\SalesDAL\obj\Debug\netstandard2.0\SalesDAL.csproj.CopyComplete
+C:\Users\MARTI\source\repos\Sales_Dashboard\SalesDAL\obj\Debug\netstandard2.0\SalesDAL.dll
+C:\Users\MARTI\source\repos\Sales_Dashboard\SalesDAL\obj\Debug\netstandard2.0\SalesDAL.pdb
