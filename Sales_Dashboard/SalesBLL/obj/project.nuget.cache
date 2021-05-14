@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2U+AaHNSK5hbaK24TatboqwwvKS6ASjp7S2skxXCX1PzczduvdVvgSA8PDlwk1dq95x4IlQXLovZmFY2+NvYFA==",
+  "dgSpecHash": "WTearV5/bEXLHPoaoOgUNzn7OdtUvS7Lqeh/LO9ezrwHVvIoOkfnk3+Zy5oVC2b4Hj1tOFCnBj3PHGyGqCgDbw==",
   "success": true,
-  "projectFilePath": "C:\\FP__DAM\\DESARROLLO_INTERFACES\\Unidad_6\\Sales_Dashboard\\Sales_Dashboard\\SalesBLL\\SalesBLL.csproj",
+  "projectFilePath": "C:\\FP__DAM\\GIT\\DI-TE07\\Sales_Dashboard\\SalesBLL\\SalesBLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MARTI\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\MARTI\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

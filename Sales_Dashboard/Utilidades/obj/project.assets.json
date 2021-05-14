@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\FP__DAM\\DESARROLLO_INTERFACES\\Unidad_6\\Sales_Dashboard\\Sales_Dashboard\\Utilidades\\Utilidades.csproj",
+      "projectUniqueName": "C:\\FP__DAM\\GIT\\DI-TE07\\Sales_Dashboard\\Utilidades\\Utilidades.csproj",
       "projectName": "Utilidades",
-      "projectPath": "C:\\FP__DAM\\DESARROLLO_INTERFACES\\Unidad_6\\Sales_Dashboard\\Sales_Dashboard\\Utilidades\\Utilidades.csproj",
+      "projectPath": "C:\\FP__DAM\\GIT\\DI-TE07\\Sales_Dashboard\\Utilidades\\Utilidades.csproj",
       "packagesPath": "C:\\Users\\MARTI\\.nuget\\packages\\",
-      "outputPath": "C:\\FP__DAM\\DESARROLLO_INTERFACES\\Unidad_6\\Sales_Dashboard\\Sales_Dashboard\\Utilidades\\obj\\",
+      "outputPath": "C:\\FP__DAM\\GIT\\DI-TE07\\Sales_Dashboard\\Utilidades\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MARTI\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -12,3 +12,17 @@ C:\Users\MARTI\source\repos\Sales_Dashboard\SalesBLL\obj\Debug\netstandard2.0\Sa
 C:\Users\MARTI\source\repos\Sales_Dashboard\SalesBLL\obj\Debug\netstandard2.0\SalesBLL.csproj.CopyComplete
 C:\Users\MARTI\source\repos\Sales_Dashboard\SalesBLL\obj\Debug\netstandard2.0\SalesBLL.dll
 C:\Users\MARTI\source\repos\Sales_Dashboard\SalesBLL\obj\Debug\netstandard2.0\SalesBLL.pdb
+C:\FP__DAM\GIT\DI-TE07\Sales_Dashboard\SalesBLL\bin\Debug\netstandard2.0\SalesBLL.deps.json
+C:\FP__DAM\GIT\DI-TE07\Sales_Dashboard\SalesBLL\bin\Debug\netstandard2.0\SalesBLL.dll
+C:\FP__DAM\GIT\DI-TE07\Sales_Dashboard\SalesBLL\bin\Debug\netstandard2.0\SalesBLL.pdb
+C:\FP__DAM\GIT\DI-TE07\Sales_Dashboard\SalesBLL\bin\Debug\netstandard2.0\SalesDAL.dll
+C:\FP__DAM\GIT\DI-TE07\Sales_Dashboard\SalesBLL\bin\Debug\netstandard2.0\Utilidades.dll
+C:\FP__DAM\GIT\DI-TE07\Sales_Dashboard\SalesBLL\bin\Debug\netstandard2.0\SalesDAL.pdb
+C:\FP__DAM\GIT\DI-TE07\Sales_Dashboard\SalesBLL\bin\Debug\netstandard2.0\Utilidades.pdb
+C:\FP__DAM\GIT\DI-TE07\Sales_Dashboard\SalesBLL\obj\Debug\netstandard2.0\SalesBLL.csprojAssemblyReference.cache
+C:\FP__DAM\GIT\DI-TE07\Sales_Dashboard\SalesBLL\obj\Debug\netstandard2.0\SalesBLL.AssemblyInfoInputs.cache
+C:\FP__DAM\GIT\DI-TE07\Sales_Dashboard\SalesBLL\obj\Debug\netstandard2.0\SalesBLL.AssemblyInfo.cs
+C:\FP__DAM\GIT\DI-TE07\Sales_Dashboard\SalesBLL\obj\Debug\netstandard2.0\SalesBLL.csproj.CoreCompileInputs.cache
+C:\FP__DAM\GIT\DI-TE07\Sales_Dashboard\SalesBLL\obj\Debug\netstandard2.0\SalesBLL.csproj.CopyComplete
+C:\FP__DAM\GIT\DI-TE07\Sales_Dashboard\SalesBLL\obj\Debug\netstandard2.0\SalesBLL.dll
+C:\FP__DAM\GIT\DI-TE07\Sales_Dashboard\SalesBLL\obj\Debug\netstandard2.0\SalesBLL.pdb

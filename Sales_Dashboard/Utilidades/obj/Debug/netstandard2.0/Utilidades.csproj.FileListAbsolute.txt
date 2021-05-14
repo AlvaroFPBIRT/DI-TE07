@@ -7,3 +7,11 @@ C:\Users\MARTI\source\repos\Sales_Dashboard\Utilidades\obj\Debug\netstandard2.0\
 C:\Users\MARTI\source\repos\Sales_Dashboard\Utilidades\obj\Debug\netstandard2.0\Utilidades.csproj.CoreCompileInputs.cache
 C:\Users\MARTI\source\repos\Sales_Dashboard\Utilidades\obj\Debug\netstandard2.0\Utilidades.dll
 C:\Users\MARTI\source\repos\Sales_Dashboard\Utilidades\obj\Debug\netstandard2.0\Utilidades.pdb
+C:\FP__DAM\GIT\DI-TE07\Sales_Dashboard\Utilidades\bin\Debug\netstandard2.0\Utilidades.deps.json
+C:\FP__DAM\GIT\DI-TE07\Sales_Dashboard\Utilidades\bin\Debug\netstandard2.0\Utilidades.dll
+C:\FP__DAM\GIT\DI-TE07\Sales_Dashboard\Utilidades\bin\Debug\netstandard2.0\Utilidades.pdb
+C:\FP__DAM\GIT\DI-TE07\Sales_Dashboard\Utilidades\obj\Debug\netstandard2.0\Utilidades.AssemblyInfoInputs.cache
+C:\FP__DAM\GIT\DI-TE07\Sales_Dashboard\Utilidades\obj\Debug\netstandard2.0\Utilidades.AssemblyInfo.cs
+C:\FP__DAM\GIT\DI-TE07\Sales_Dashboard\Utilidades\obj\Debug\netstandard2.0\Utilidades.csproj.CoreCompileInputs.cache
+C:\FP__DAM\GIT\DI-TE07\Sales_Dashboard\Utilidades\obj\Debug\netstandard2.0\Utilidades.dll
+C:\FP__DAM\GIT\DI-TE07\Sales_Dashboard\Utilidades\obj\Debug\netstandard2.0\Utilidades.pdb

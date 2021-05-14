@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\FP__DAM\\DESARROLLO_INTERFACES\\Unidad_6\\Sales_Dashboard\\Sales_Dashboard\\SalesBLL\\SalesBLL.csproj": {}
+    "C:\\FP__DAM\\GIT\\DI-TE07\\Sales_Dashboard\\SalesBLL\\SalesBLL.csproj": {}
   },
   "projects": {
-    "C:\\FP__DAM\\DESARROLLO_INTERFACES\\Unidad_6\\Sales_Dashboard\\Sales_Dashboard\\SalesBLL\\SalesBLL.csproj": {
+    "C:\\FP__DAM\\GIT\\DI-TE07\\Sales_Dashboard\\SalesBLL\\SalesBLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\FP__DAM\\DESARROLLO_INTERFACES\\Unidad_6\\Sales_Dashboard\\Sales_Dashboard\\SalesBLL\\SalesBLL.csproj",
+        "projectUniqueName": "C:\\FP__DAM\\GIT\\DI-TE07\\Sales_Dashboard\\SalesBLL\\SalesBLL.csproj",
         "projectName": "SalesBLL",
-        "projectPath": "C:\\FP__DAM\\DESARROLLO_INTERFACES\\Unidad_6\\Sales_Dashboard\\Sales_Dashboard\\SalesBLL\\SalesBLL.csproj",
+        "projectPath": "C:\\FP__DAM\\GIT\\DI-TE07\\Sales_Dashboard\\SalesBLL\\SalesBLL.csproj",
         "packagesPath": "C:\\Users\\MARTI\\.nuget\\packages\\",
-        "outputPath": "C:\\FP__DAM\\DESARROLLO_INTERFACES\\Unidad_6\\Sales_Dashboard\\Sales_Dashboard\\SalesBLL\\obj\\",
+        "outputPath": "C:\\FP__DAM\\GIT\\DI-TE07\\Sales_Dashboard\\SalesBLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MARTI\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\FP__DAM\\DESARROLLO_INTERFACES\\Unidad_6\\Sales_Dashboard\\Sales_Dashboard\\SalesDAL\\SalesDAL.csproj": {
-                "projectPath": "C:\\FP__DAM\\DESARROLLO_INTERFACES\\Unidad_6\\Sales_Dashboard\\Sales_Dashboard\\SalesDAL\\SalesDAL.csproj"
+              "C:\\FP__DAM\\GIT\\DI-TE07\\Sales_Dashboard\\SalesDAL\\SalesDAL.csproj": {
+                "projectPath": "C:\\FP__DAM\\GIT\\DI-TE07\\Sales_Dashboard\\SalesDAL\\SalesDAL.csproj"
               },
-              "C:\\FP__DAM\\DESARROLLO_INTERFACES\\Unidad_6\\Sales_Dashboard\\Sales_Dashboard\\Utilidades\\Utilidades.csproj": {
-                "projectPath": "C:\\FP__DAM\\DESARROLLO_INTERFACES\\Unidad_6\\Sales_Dashboard\\Sales_Dashboard\\Utilidades\\Utilidades.csproj"
+              "C:\\FP__DAM\\GIT\\DI-TE07\\Sales_Dashboard\\Utilidades\\Utilidades.csproj": {
+                "projectPath": "C:\\FP__DAM\\GIT\\DI-TE07\\Sales_Dashboard\\Utilidades\\Utilidades.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\FP__DAM\\DESARROLLO_INTERFACES\\Unidad_6\\Sales_Dashboard\\Sales_Dashboard\\SalesDAL\\SalesDAL.csproj": {
+    "C:\\FP__DAM\\GIT\\DI-TE07\\Sales_Dashboard\\SalesDAL\\SalesDAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\FP__DAM\\DESARROLLO_INTERFACES\\Unidad_6\\Sales_Dashboard\\Sales_Dashboard\\SalesDAL\\SalesDAL.csproj",
+        "projectUniqueName": "C:\\FP__DAM\\GIT\\DI-TE07\\Sales_Dashboard\\SalesDAL\\SalesDAL.csproj",
         "projectName": "SalesDAL",
-        "projectPath": "C:\\FP__DAM\\DESARROLLO_INTERFACES\\Unidad_6\\Sales_Dashboard\\Sales_Dashboard\\SalesDAL\\SalesDAL.csproj",
+        "projectPath": "C:\\FP__DAM\\GIT\\DI-TE07\\Sales_Dashboard\\SalesDAL\\SalesDAL.csproj",
         "packagesPath": "C:\\Users\\MARTI\\.nuget\\packages\\",
-        "outputPath": "C:\\FP__DAM\\DESARROLLO_INTERFACES\\Unidad_6\\Sales_Dashboard\\Sales_Dashboard\\SalesDAL\\obj\\",
+        "outputPath": "C:\\FP__DAM\\GIT\\DI-TE07\\Sales_Dashboard\\SalesDAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MARTI\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -92,8 +92,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\FP__DAM\\DESARROLLO_INTERFACES\\Unidad_6\\Sales_Dashboard\\Sales_Dashboard\\Utilidades\\Utilidades.csproj": {
-                "projectPath": "C:\\FP__DAM\\DESARROLLO_INTERFACES\\Unidad_6\\Sales_Dashboard\\Sales_Dashboard\\Utilidades\\Utilidades.csproj"
+              "C:\\FP__DAM\\GIT\\DI-TE07\\Sales_Dashboard\\Utilidades\\Utilidades.csproj": {
+                "projectPath": "C:\\FP__DAM\\GIT\\DI-TE07\\Sales_Dashboard\\Utilidades\\Utilidades.csproj"
               }
             }
           }
@@ -129,14 +129,14 @@
         }
       }
     },
-    "C:\\FP__DAM\\DESARROLLO_INTERFACES\\Unidad_6\\Sales_Dashboard\\Sales_Dashboard\\Utilidades\\Utilidades.csproj": {
+    "C:\\FP__DAM\\GIT\\DI-TE07\\Sales_Dashboard\\Utilidades\\Utilidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\FP__DAM\\DESARROLLO_INTERFACES\\Unidad_6\\Sales_Dashboard\\Sales_Dashboard\\Utilidades\\Utilidades.csproj",
+        "projectUniqueName": "C:\\FP__DAM\\GIT\\DI-TE07\\Sales_Dashboard\\Utilidades\\Utilidades.csproj",
         "projectName": "Utilidades",
-        "projectPath": "C:\\FP__DAM\\DESARROLLO_INTERFACES\\Unidad_6\\Sales_Dashboard\\Sales_Dashboard\\Utilidades\\Utilidades.csproj",
+        "projectPath": "C:\\FP__DAM\\GIT\\DI-TE07\\Sales_Dashboard\\Utilidades\\Utilidades.csproj",
         "packagesPath": "C:\\Users\\MARTI\\.nuget\\packages\\",
-        "outputPath": "C:\\FP__DAM\\DESARROLLO_INTERFACES\\Unidad_6\\Sales_Dashboard\\Sales_Dashboard\\Utilidades\\obj\\",
+        "outputPath": "C:\\FP__DAM\\GIT\\DI-TE07\\Sales_Dashboard\\Utilidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MARTI\\AppData\\Roaming\\NuGet\\NuGet.Config",

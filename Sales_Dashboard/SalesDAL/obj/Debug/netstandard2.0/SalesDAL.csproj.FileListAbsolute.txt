@@ -10,3 +10,15 @@ C:\Users\MARTI\source\repos\Sales_Dashboard\SalesDAL\obj\Debug\netstandard2.0\Sa
 C:\Users\MARTI\source\repos\Sales_Dashboard\SalesDAL\obj\Debug\netstandard2.0\SalesDAL.csproj.CopyComplete
 C:\Users\MARTI\source\repos\Sales_Dashboard\SalesDAL\obj\Debug\netstandard2.0\SalesDAL.dll
 C:\Users\MARTI\source\repos\Sales_Dashboard\SalesDAL\obj\Debug\netstandard2.0\SalesDAL.pdb
+C:\FP__DAM\GIT\DI-TE07\Sales_Dashboard\SalesDAL\bin\Debug\netstandard2.0\SalesDAL.deps.json
+C:\FP__DAM\GIT\DI-TE07\Sales_Dashboard\SalesDAL\bin\Debug\netstandard2.0\SalesDAL.dll
+C:\FP__DAM\GIT\DI-TE07\Sales_Dashboard\SalesDAL\bin\Debug\netstandard2.0\SalesDAL.pdb
+C:\FP__DAM\GIT\DI-TE07\Sales_Dashboard\SalesDAL\bin\Debug\netstandard2.0\Utilidades.dll
+C:\FP__DAM\GIT\DI-TE07\Sales_Dashboard\SalesDAL\bin\Debug\netstandard2.0\Utilidades.pdb
+C:\FP__DAM\GIT\DI-TE07\Sales_Dashboard\SalesDAL\obj\Debug\netstandard2.0\SalesDAL.csprojAssemblyReference.cache
+C:\FP__DAM\GIT\DI-TE07\Sales_Dashboard\SalesDAL\obj\Debug\netstandard2.0\SalesDAL.AssemblyInfoInputs.cache
+C:\FP__DAM\GIT\DI-TE07\Sales_Dashboard\SalesDAL\obj\Debug\netstandard2.0\SalesDAL.AssemblyInfo.cs
+C:\FP__DAM\GIT\DI-TE07\Sales_Dashboard\SalesDAL\obj\Debug\netstandard2.0\SalesDAL.csproj.CoreCompileInputs.cache
+C:\FP__DAM\GIT\DI-TE07\Sales_Dashboard\SalesDAL\obj\Debug\netstandard2.0\SalesDAL.csproj.CopyComplete
+C:\FP__DAM\GIT\DI-TE07\Sales_Dashboard\SalesDAL\obj\Debug\netstandard2.0\SalesDAL.dll
+C:\FP__DAM\GIT\DI-TE07\Sales_Dashboard\SalesDAL\obj\Debug\netstandard2.0\SalesDAL.pdb

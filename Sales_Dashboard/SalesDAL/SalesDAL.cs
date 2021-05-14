@@ -9,7 +9,7 @@ namespace SalesDAL
     {
         public static  List<Persona> LeerEmpleados()
         {
-            var reader = new StreamReader(File.OpenRead(@".\..\..\..\BD\1_datos_comerciales.csv"));
+            var reader = new StreamReader(File.OpenRead(@"BD\1_datos_comerciales.csv"));
             List<Persona> list = new List<Persona>();
 
             var line = reader.ReadLine(); //Cabecera
@@ -32,7 +32,7 @@ namespace SalesDAL
 
         public static List<DetalleFacturacion> LeerFacturacion()
         {
-            var reader = new StreamReader(File.OpenRead(@".\..\..\..\BD\2_facturacion_comercial.csv"));
+            var reader = new StreamReader(File.OpenRead(@"BD\2_facturacion_comercial.csv"));
             List<DetalleFacturacion> list = new List<DetalleFacturacion>();
 
             var line = reader.ReadLine(); //Cabecera
